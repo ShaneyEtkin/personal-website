@@ -1,0 +1,18 @@
+.navbar {
+    width: 100%;
+    background-color: black;
+    overflow: auto;
+}
+
+.navbar a {
+    font-family:monospace;
+    font-size: 15;
+    color: floralwhite;
+    text-decoration: none;
+}
+
+.navbar li {
+    display: inline-block;
+    float:right;
+    padding: 12;
+    text-align: center;

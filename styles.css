@@ -1,0 +1,22 @@
+/*Universal Selector(CHANGES ALL)*/
+* {
+    color:lightskyblue;
+}
+
+/*Element Selector(CHANGES SPECIFIC ELEMENTS)*/
+/*If you want to affect multiple elements with the same CSS, use a comma where element is specified*/
+p {
+    text-align: center;
+}
+
+/*ID Selector*/
+/*ID; use only once for a specific element*/
+#green {
+    color:green;
+}
+
+/*Class Selector*/
+/*Class; like ID but can use multiple times*/
+.right {
+    text-align: right;
+}
